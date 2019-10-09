@@ -8,6 +8,10 @@ https://github.com/georgipeltekov/ngx-file-drop
 The file dropper fails to handle the file drop event when the content has a border in it.
 This bug seem to only happen on Chrome.
 
+**Example:**
+
+![](exmaple.gif)
+
 ## general info
 
 ngx-file-drop version: 8.0.8  
